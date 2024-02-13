@@ -277,7 +277,7 @@
 												<?php print $eFaculty; ?></span></p>
 											
 												<form method="post" action="index.php">
-    <p><input type="submit" name="submit" value="Submit"></p>
+   										 <p><input type="submit" name="submit" value="Submit"></p>
 </form>
 										<!-- <li><a href="Forms/reg.php">REGISTER</a></li></p> -->
 									</div>

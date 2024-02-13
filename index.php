@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta name="viewport" content="with=device-width, initial-scale=1.0">
-	<title>Eduford</title>
+	<title>Edford</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="preconnect" href="https://fonts.gstatic.com">
 	<link rel="stylesheet" href="https://fonts.gstatic.com/css2? family=Poppins:wght@100;200;300;400;600;700&display=swap">

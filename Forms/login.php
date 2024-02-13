@@ -80,7 +80,6 @@ if ($_POST){
 
     $response = (($con->query("SELECT count(*) AS count, usertype FROM reg WHERE email = '$email' AND password = '$password' AND usertype = '$type'")) -> fetch_assoc());
     $count = $response['count'];
-    // echo $count;
         if ($count >= 1 && $response['usertype'] == "admin") {
             $_SESSION['isLoggedIn'] = true;
             $_SESSION['loggedInAs'] = "admin";
@@ -91,7 +90,6 @@ if ($_POST){
             header("Location: /4th-sem-lab/Student-Admission/index.php");
         } else {    
             echo "You fool";
-            // header("Location: ./login.php");
         }
 }
 ?>

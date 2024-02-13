@@ -28,15 +28,15 @@
 	<p>The courses we offer are:<br>Networking, Machine Learning, Programming, Database, Web Design.</p>
 	<div class="row">
 		<div class="course-col">
-			<a href="BSc.html">
-				<h3>BSC hons</h3>
-			<p>BSc (Hons) in Computing is one of the popular courses in Nepal provided by different international universities in Nepal with affiliation.</p>
-			</a>
+			<h1 href="BSc.html">
+			<h3>BSC hons</h3>
+			  <p>BSc (Hons) in Computing is one of the popular courses in Nepal provided by different international universities in Nepal with affiliation.</p>
+			</h1>
 		</div>
 		<div class="course-col">
-			<a href="bca.html"><h3>BCA</h3>
-			<p>Bachelor of Computer Applications is a practical course focused on the application of technology to develop computer applications.</p>
-			</a>
+			<h1 href="bca.html"><h3>BCA</h3>
+			 <p>Bachelor of Computer Applications is a practical course focused on the application of technology to develop computer applications.</p>
+			</h1>
 		</div>
 		<div class="course-col">
 			<h3>BSc.CSIT</h3>
